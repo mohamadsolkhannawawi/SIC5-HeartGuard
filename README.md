@@ -1,7 +1,6 @@
 # SIC5-HeartGuard
 HeartGuard: An IoT and AI Chatbot system for early detection of Coronary Heart Disease risk. It monitors vitals via a custom device and uses Machine Learning to predict long-term CHD risk. Our mission is to provide a proactive approach to heart health that is both affordable and accessible.
 <div align="center">
-  <img src="https://placehold.co/150x150/5B7A9A/ECEFCA?text=HG" alt="HeartGuard Logo" style="border-radius: 50%;">
   <h1>HeartGuard 🩺</h1>
   <p><strong>Early Detection System for Coronary Heart Disease Risk Using IoT and Chatbot</strong></p>
   <p><i>Early prevention for coronary heart disease risk. The best way to live better.</i></p>
@@ -115,3 +114,4 @@ HeartGuard's integrated system flow ensures fast and accurate results:
 ---
 
 > 🚨 **Disclaimer:** HeartGuard is not a substitute for professional medical diagnosis. For serious conditions, always consult a licensed healthcare provider.
+
